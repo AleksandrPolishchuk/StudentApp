@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "koMcxBsnTfmJPDQOpjxgnPK4DuKMAu055TFlRzBelHyNlnYfLvSRjPG/2rZoVZnAllG43wy5lzlRbD+Oe80uVA==",
+  "dgSpecHash": "z7yJtqL5cInXKYxUcZqjnMnWOvolv3KDZwqZ1Z+WCy+o4VepnX5PGsvhC4T+zH9mAFO0Ovn7EHeLHcuxR7Slkg==",
   "success": true,
   "projectFilePath": "C:\\Users\\HS\\source\\repos\\myGithub\\studentApp\\backend\\studentAPI\\studentAPI\\studentAPI.csproj",
   "expectedPackageFiles": [
@@ -18,6 +18,7 @@
     "C:\\Users\\HS\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.4\\microsoft.entityframeworkcore.design.7.0.4.nupkg.sha512",
     "C:\\Users\\HS\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.4\\microsoft.entityframeworkcore.relational.7.0.4.nupkg.sha512",
     "C:\\Users\\HS\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.4\\microsoft.entityframeworkcore.sqlserver.7.0.4.nupkg.sha512",
+    "C:\\Users\\HS\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.4\\microsoft.entityframeworkcore.tools.7.0.4.nupkg.sha512",
     "C:\\Users\\HS\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\HS\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\HS\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
