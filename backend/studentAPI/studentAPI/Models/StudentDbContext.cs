@@ -12,7 +12,7 @@ namespace studentAPI.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         { 
-            optionsBuilder.UseSqlServer("Server=(local)\\sqlexpress;Database=studentDB;Trusted_Connection=True;MultipleActiveResultSets=True;TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer("Server=(local)\\sqlexpress;Database=StudentDB;Trusted_Connection=True;MultipleActiveResultSets=True;TrustServerCertificate=True");
         }
     }
 }
