@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "z7yJtqL5cInXKYxUcZqjnMnWOvolv3KDZwqZ1Z+WCy+o4VepnX5PGsvhC4T+zH9mAFO0Ovn7EHeLHcuxR7Slkg==",
+  "dgSpecHash": "sDZcmq66oQWLH7tF+twLk8GQnvnb4jP/y0l3GzVFYW0ELAjTiTCWbBTB/Jgr/0OTz1rcKZgRFs4RPvEr0cT5bw==",
   "success": true,
   "projectFilePath": "C:\\Users\\HS\\source\\repos\\myGithub\\studentApp\\backend\\studentAPI\\studentAPI\\studentAPI.csproj",
   "expectedPackageFiles": [
@@ -45,6 +45,7 @@
     "C:\\Users\\HS\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\HS\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\HS\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\HS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\HS\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\HS\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\HS\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
